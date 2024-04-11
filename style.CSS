@@ -1,0 +1,133 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+    padding: 20px 0;
+    font-family: Arial, sans-serif;
+    background:linear-gradient(to right, white, #3CE4D8);
+}
+
+div {
+    background-color: #333;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+div a {
+    text-decoration: none;
+    font-family: Arial;
+    color: #FFF;
+    padding: 10px 20px;
+    margin: 0 10px;
+    border-radius: 20px;
+}
+
+div a:hover {
+    background-color: #555;
+}
+
+main {
+    padding: 20px;
+    background:linear-gradient(to right, white, #3CE4D8);
+}
+
+.passion {
+    background-color: #333;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: #fff;
+    font-family: Arial;
+    box-shadow: 4px 5px 5px #572F33;
+}
+
+.passion h2 {
+    color: #C09F7E;
+}
+
+.social2 {
+    list-style: none;
+    text-align: center;
+    color: red;
+    padding: 10px 20px;
+    margin-top: 30px; 
+    line-height: 30px;
+    border-radius: 10px;
+}
+
+.social2 li {
+  display: inline;
+  padding: 10px;
+}
+
+.social2 i {
+    font-size: 50px;
+    color: #C09F7E;
+    transition: all 0.3s ease;
+}
+
+.social2 i:hover {
+    font-size: 60px;
+    color: red;
+    opacity:3;
+}
+.footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.social-media {
+    list-style-type: none;
+    padding: 0;
+}
+
+.social-media li {
+    display: inline;
+    margin: 0 10px;
+}
+
+.social-media li a {
+    color: yellow;
+    text-decoration: none;
+}
+.title {
+    color: #333;
+}
+.hero {
+    background-color: #f3f3f3;
+    text-align: center;
+    padding: 50px 0;
+}
+.profile-picture {
+    border-radius: 60%;
+    width: 200px;
+}
+.navbar {
+    background-color: #333;
+    padding: 15px 0;
+}
+
+.nav-links {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.nav-links li {
+    display: inline;
+}
+
+.nav-links li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+}
